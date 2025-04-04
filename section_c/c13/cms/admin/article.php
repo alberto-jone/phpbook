@@ -6,7 +6,7 @@ declare(strict_types=1);
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 
-declare(strict_types = 1);                                         // Use strict types
+                                    // Use strict types
 include '../includes/database-connection.php';                     // Database connection
 include '../includes/functions.php';                               // Functions
 include '../includes/validate.php';                                // Validation functions
